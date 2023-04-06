@@ -55,7 +55,7 @@ Older versions of PS have less security features according to the [unicorn](http
 
 ### Run PowerShell commands without PowerShell.exe
 
-You can use [p0wnedShell](https://github.com/Cn33liz/p0wnedShell)
+You can use [p0wnedShell](https://github.com/Cn33liz/p0wnedShell) or the more recent [PowerLessShell](https://github.com/Mr-Un1k0d3r/PowerLessShell).
 
 ### Disable critical protections
 
