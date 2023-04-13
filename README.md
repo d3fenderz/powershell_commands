@@ -4,7 +4,7 @@ Personal sheet for PowerShell 🧢
 
 TO BE CONTINUED indefinitely...
 
-![GitHub last commit](https://img.shields.io/github/last-commit/jmau111-org/powershell_commands?label=last%20update%3A)
+![GitHub last commit](https://img.shields.io/github/last-commit/d3fenderz/powershell_commands?label=last%20update%3A)
 
 ## Attacking techniques: practical examples
 
